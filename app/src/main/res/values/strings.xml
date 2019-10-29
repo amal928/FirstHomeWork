@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">firsthomework</string>
+    <string name="app_name">first app</string>
+    <string name="EditProfile">Edit Profile</string>
+    <string name="chang">Change your profile photo</string>
+    <string name="Profile">Profile</string>
+    <string name="Lance"> Lance Bogrol</string>
+    <string name="lancebogrol">lancebogrol</string>
+    <string name="web">"http://yourdomain.com/</string>
+    <string name="Classified">Classified Information</string>
+    <string name="email">name@yourdomain.com</string>
+    <string name="num">1234567890</string>
+    <string name="female">Female</string>
+    <string name="done">Done</string>
+    <string name="your">Your Profilefile</string>
+    <string name="Complete">40%Completed</string>
+    <string name="firstname">Dr.Sherley</string>
+    <string name="lastname">Abraham</string>
+    <string name="phone">+851 988 50994</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="enteremail">enter email</string>
+    <string name="id">Email ID</string>
+    <string name="select">select</string>
+    <string name="gender">Gender</string>
+    <string name="date">Date of Birth</string>
+    <string name="format">mm/dd/yyyy</string>
+    <string name="experience">Experience</string>
+    <string name="add">+add</string>
+    <string name="adddetails">add details</string>
+    <string name="emergency">Emergency Contact</string>
+    <string name="location">Location</string>
+    <string name="titel">Hong Kong.China</string>
+    <string name="save">Save</string>
+
+
 </resources>
